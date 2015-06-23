@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1082001f-d648-4970-8d3d-afab245dd294" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/17H.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="$PROJECT_DIR$/css/grayscale.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/grayscale.js" afterPath="$PROJECT_DIR$/js/grayscale.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/grayscale.less" afterPath="$PROJECT_DIR$/less/grayscale.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="1082001f-d648-4970-8d3d-afab245dd294" name="Default" comment="" />
     <ignored path="web-bootstrap.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
